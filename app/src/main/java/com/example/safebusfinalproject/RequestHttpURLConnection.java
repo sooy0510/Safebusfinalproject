@@ -51,6 +51,7 @@ public class RequestHttpURLConnection {
             endPoint.setViaX("127.036174");
             endPoint.setViaY("37.500138");
         }
+        //first commit
 
 
         // 서버에서 받아온 json데이터로 경유지 list만들기
